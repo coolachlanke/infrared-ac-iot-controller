@@ -1,4 +1,4 @@
-26440320832797663
+26447349321832435
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -105640,6 +105640,34 @@ Varistor
 Varistor_Panasonic_VF
 Panasonic VF series varistor, 6x8mm body, 3.2mm height, https://mediap.industry.panasonic.eu/assets/imported/industrial.panasonic.com/cdbs/www-data/pdf/AWA0000/AWA0000C4.pdf
 Varistor VF
+0
+2
+2
+libs
+HDR-TH_4P-P2.54-V-M
+
+
+0
+4
+4
+libs
+SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL
+
+
+0
+6
+6
+libs
+SOT-666-6_L1.6-W1.2-P0.50-LS1.6-BR
+
+
+0
+6
+4
+libs
+SW-SMD_L3.9-W3.0-P4.45
+
+
 0
 2
 2
