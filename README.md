@@ -1,6 +1,6 @@
 # Wireless Smart IoT IR Blaster for AC Unit
 
-Wireless control of Daikin split system air conditioning unit using IR LED + ESP32-S3,
+Wireless control of Daikin split system air conditioning unit using IR LED + ESP32-S3.
 
 ---
 Take a look a the fully sick 3D render:
