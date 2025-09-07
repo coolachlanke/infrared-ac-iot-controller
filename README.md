@@ -5,7 +5,7 @@ Wireless control of Daikin split system air conditioning unit using IR LED + ESP
 ---
 Take a look a the fully sick 3D render:
 
-![pcb_render](docs/render.png)
+![pcb_render](docs/rendgabeer.png)
 ---
 ..and now take a look at the fully sick assembled board:
 
